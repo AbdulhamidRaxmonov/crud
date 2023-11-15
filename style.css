@@ -1,0 +1,73 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+main{
+    width: 100%;
+    height: 100vh;
+    background-color: aqua;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+}
+.mainsection1{
+    width: 90%;
+    height: 90vh;
+    background-color: chocolate;
+}
+.secDiv1{
+    width: 100%;
+    height: 55vh;
+    background-color: aquamarine;
+    display: inline-flex;
+    justify-content: space-between;
+}
+.secDiv2{
+    width: 100%;
+    height: 35vh;
+    background-color: rgb(233, 62, 15);
+    display: inline-flex;
+    justify-content: space-between;
+}
+.Div22{
+    width: 48%;
+    height: 55vh;
+    background-color: cornflowerblue;
+    border-radius: 10px;
+    display: inline-flex;
+    justify-content: center;
+}
+.Div23{
+    width: 32%;
+    height: 35vh;
+    background-color: rgb(237, 100, 182);
+    border-radius: 10px;
+    display: inline-flex;
+    justify-content: center;
+}
+.Div222{
+    width: 40%;
+    height: 55vh;
+    background-color: coral;
+    display: inline-flex;
+    justify-content: center;
+}
+.Div2222{
+    width: 55%;
+    height: 35vh;
+    background-color: coral;
+    display: inline-flex;
+    justify-content: center;
+}
+.Div2233{
+    width: 40%;
+    height: 35vh;
+    background-color: rgb(95, 255, 80);
+    display: inline-flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
+.Div222>img{
+    width: 400px;
+}
